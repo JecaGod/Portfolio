@@ -30,5 +30,3 @@ Bem vindo ao meu projeto de portfólio.
 
 ### Linkedin: https://www.linkedin.com/in/jean-carlos-macedo-silva-b69532239
 ### Instagram: https://www.instagram.com/jean.wvz/
-
-```
